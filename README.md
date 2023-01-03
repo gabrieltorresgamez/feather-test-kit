@@ -1,4 +1,4 @@
-# feather-kit-test
+# feather-test-kit
 Example for using CircuitPython to communicate with sensors on a Feather nRF52840 Express.
 
 ![Layout](FeatherLayout.png)
